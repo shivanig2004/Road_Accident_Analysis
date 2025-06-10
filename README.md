@@ -1,6 +1,8 @@
-🚧 Road Accident Analysis Dashboard | Power BI Project
+🚧 Road Accident Analysis Dashboard 
+
 📊 Project Overview
-This project presents a comprehensive Road Accident Analysis Dashboard built using Microsoft Power BI. The dashboard provides meaningful insights into accident patterns to support data-driven decisions in traffic safety and urban planning.
+This project presents a comprehensive Road Accident Analysis Dashboard built using Microsoft Power BI.
+The dashboard provides meaningful insights into accident patterns to support data-driven decisions in traffic safety and urban planning.
 
 🎯 Objective
 To analyze road accident data and visualize key patterns such as:
