@@ -27,7 +27,9 @@ Trends and high-risk zones
 
 Dashboard:
 Road Accident Analysis Dashboard.pbix – Main Power BI dashboard file
+
 Dataset:
+
 Road_accident_data : Kaggle.com
 
 
